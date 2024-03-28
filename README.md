@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+i'm ammar, from michigan, and i'm a student at the university of michigan double majoring in computer science & linguistics, and minoring in math.
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ammarat)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **ammarateya/ammarateya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
