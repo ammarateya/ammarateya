@@ -2,8 +2,7 @@
 
 i'm ammar, from michigan, and i'm a student at the university of michigan double majoring in computer science & linguistics, and minoring in math.
 
-- 🗣️ I’m currently learning ml techniques and more about nlp
-- 👯 I’m looking to collaborate on any cool technical project!
+- recently set up my own homelab server
 - 💬 Ask me about any movie ever
 - 📫 How to reach me: email me at ammarat[at]umich[dot]edu
 
